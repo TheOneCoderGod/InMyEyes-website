@@ -1,6 +1,6 @@
 # InMyEyes Photography Portfolio
 
-![InMyEyes Logo](/public/material/header/logo.svg)
+![InMyEyes Logo](/public/material/header/logo3.svg)
 
 **InMyEyes** is a modern, visually stunning photography portfolio website built with Next.js, TypeScript, and Tailwind CSS. It showcases professional photography work with smooth animations, multiple gallery layouts, and a clean user interface.
 
